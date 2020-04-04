@@ -17,3 +17,9 @@ The amount of HTML and CSS in these templates is mind-blowing. The CSS was fille
 These sites are so beautiful and so verbose that it is hard to decide where to start combing through and where to adjust. But I look forward to going deeper into the rabbit holes as the project evolves.
 
 I've put only about an hour in to this lab at present.
+
+
+Photo by Diego PH on Unsplash
+Photo by Georgie Cobbs on Unsplash
+Photo by Markus Spiske on Unsplash
+Photo by Nathan Dumlao on Unsplash
